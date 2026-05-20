@@ -1,8 +1,5 @@
 # 🛒 End-to-End Retail Sales & Profit Intelligence System
 
-<p align="center">
-  <img src="images/dashboard_preview.png" alt="Dashboard Preview" width="800"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" />
