@@ -17,6 +17,9 @@ A **production-grade retail analytics platform** that ingests raw transactional 
 
 This project mirrors the analytics stack used at mid-to-large retail companies and demonstrates full-cycle data engineering through business intelligence delivery.
 
+## 📸 Dashboard Preview
+
+![Executive Dashboard Overview](Retail.png)
 ### Business Questions Answered
 
 | # | Question | Output |
